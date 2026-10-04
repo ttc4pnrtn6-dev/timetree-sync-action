@@ -1,0 +1,11 @@
+This project includes third-party software.
+
+TimeTree-exporter
+https://github.com/eoleedi/TimeTree-exporter
+License: MIT
+Copyright (c) eoleedi
+
+Synchronization code based on:
+https://github.com/porinpi-JAPAN/timetree-sync-action
+License: MIT
+Copyright (c) 2026 porinpi-JAPAN
