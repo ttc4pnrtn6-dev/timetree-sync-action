@@ -1,0 +1,7 @@
+requests>=2.32.0
+timetree-exporter>=0.9.0
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+ruff>=0.12.2
